@@ -12,8 +12,6 @@
 
 ### 🚀 Active Projects
 * **[ryScripts Store](https://ryscripts.tebex.io/):** High-performance, framework-agnostic FiveM assets.
-* **Project X:** Lead developer for a performance-focused roleplay environment.
-* **Universal Bridge:** A modular bridge system supporting Qbox, QBCore, and ESX.
 
 ---
 
